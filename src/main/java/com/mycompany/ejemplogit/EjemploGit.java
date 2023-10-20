@@ -11,6 +11,6 @@ package com.mycompany.ejemplogit;
 public class EjemploGit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola mundirijillo");
     }
 }
