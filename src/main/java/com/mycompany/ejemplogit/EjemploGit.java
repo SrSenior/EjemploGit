@@ -15,6 +15,7 @@ public class EjemploGit {
 
         ClaseDePrueba clsPr1 = new ClaseDePrueba(); 
         System.out.println("Hola tierra");
+        System.out.println("Hola tercer planeta del sistema sola");
 
     }
 }
