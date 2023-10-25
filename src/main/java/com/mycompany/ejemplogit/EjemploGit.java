@@ -12,6 +12,9 @@ public class EjemploGit {
 
     public static void main(String[] args) {
         System.out.println("Hola mundirijillo");
-        ClaseDePrueba clsPr1 = new ClaseDePrueba();
+
+        ClaseDePrueba clsPr1 = new ClaseDePrueba(); 
+        System.out.println("Hola tierra");
+
     }
 }
